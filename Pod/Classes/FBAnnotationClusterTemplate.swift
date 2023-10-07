@@ -20,7 +20,7 @@ public struct FBAnnotationClusterTemplate {
 
 	public var borderWidth: CGFloat = 0
 
-	public var fontSize: CGFloat = 15
+	public var fontSize: CGFloat = 10
 	public var fontName: String?
 
 	public var font: UIFont? {

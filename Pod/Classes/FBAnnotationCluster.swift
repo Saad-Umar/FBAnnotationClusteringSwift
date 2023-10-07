@@ -8,6 +8,7 @@
 
 import Foundation
 import MapKit
+import Photos
 
 open class FBAnnotationCluster: NSObject {
     
